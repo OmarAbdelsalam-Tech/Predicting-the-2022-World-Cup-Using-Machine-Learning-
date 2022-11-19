@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/amineteffal/qatar2022worldcupschudule?select=historical_win-loose-draw_ratios_qatar2022_teams.csv
